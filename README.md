@@ -32,7 +32,11 @@ Desenvolvimento projeto CRM Automotivo
 ## Objetivos
 
 <p align="justify">
-    O objetivo geral deste trabalho é a criação de um sistema CRM para oficinas mecânicas que visam uma orientação mais voltada para os mecânicos e o setor de relacionamento com o cliente, ajudando a agilizar a emissão das propostas e fechamento das mesmas dentro da própria plataforma.
+    A aplicação WEB, CRMAuto, tem como objetivo principal disponibilizar para as oficinas mecânicas todas as informações pertinentes aos clientes e os seus serviços solicitados.
+</p>
+
+<p align="justify">
+    O sistema terá orientação mais voltada para os mecânicos e o setor de relacionamento com o cliente, ajudando a agilizar a emissão das propostas e fechamento das mesmas dentro da própria plataforma.
 </p>
 
 <p align="justify">
@@ -74,7 +78,11 @@ Desenvolvimento projeto CRM Automotivo
 ## Público alvo
 
 <p align="justify">
-    EM DESENVOLVIMENTO
+    Estabelecemos que o público alvo são as oficinas mecânica automotivas que desejam ter uma plataforma que lhes permitam estarem sempre atualizados em relação aos serviços contratados pelos seus clientes, além de ser um canal que sane as principais dúvidas, os direcionando de forma correta na tomada de decisões.
+</p>
+
+<p align="justify">
+    Esta ferramenta permitirá o aprimoramento no atendimento ao cliente. Ela ajudará os mecânicos e gerentes comerciais a atingirem todo o seu potencial com mais produtividade e aproveitando seu tempo da melhor forma.
 </p>
 
 # 2. Especificação do projeto

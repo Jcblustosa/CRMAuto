@@ -111,13 +111,13 @@ Desenvolvimento projeto CRM Automotivo
 
 A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues:
 
-O site deve apresentar na página principal notícias dinâmicas obre a oficina e serviços prestados
+O software deve apresentar na página principal notícias dinâmicas obre a oficina e serviços prestados
 obtidas por meio de canais de notícias da Internet
-O site deve apresentar, para cada informação para o cliente, uma imagem
+O software deve apresentar, para cada informação para o cliente, uma imagem
 correspondente ao serviço prestado.
-O site deve gerar relatórios sobre os serviços realizados pela oficina
-O site deve gerar relatórios sobre os clientes da oficina
-O site deve efetuar cadastro ,alteração e exclusão de clientes no sitema
-O site deve consultar os clientes cadastrados no sistema
-O site deve acompanhar o andamento do serviço solicitado á oficina e a data prevista para finalização
-O site deve visualizar o hitórico de serviços efetuados/cocluídos no (s) meu(s) veículos(s) nos últimos x anos 
+O software deve gerar relatórios sobre os serviços realizados pela oficina
+O software deve gerar relatórios sobre os clientes da oficina
+O software deve efetuar cadastro ,alteração e exclusão de clientes no sitema
+O software deve consultar os clientes cadastrados no sistema
+O software deve acompanhar o andamento do serviço solicitado á oficina e a data prevista para finalização
+O software deve visualizar o hitórico de serviços efetuados/cocluídos no (s) meu(s) veículos(s) nos últimos x anos 

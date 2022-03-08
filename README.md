@@ -110,3 +110,6 @@ Desenvolvimento projeto CRM Automotivo
 ## Requisitos Funcionais
 
 A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues:
+
+O site deve apresentar na página principal notícias dinâmicas
+obtidas por meio de canais de notícias da Internet (API)

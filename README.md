@@ -8,7 +8,7 @@ Desenvolvimento projeto CRM Automotivo
 </p>
 
 <p align="justify">
-    As relações entre oficinas mecânicas e seus clientes, necessitam de uma maior transparência para o aumento da confiança entre ambos. E as informações precisas e obtidas e fornecidas no momento exato são fundamentais para alcançar este objetivo.
+    As relações entre oficinas mecânicas e seus clientes, necessitam de uma maior transparência para o aumento da confiança entre ambos. E as informações precisas,obtidas e fornecidas no momento exato são fundamentais para alcançar este objetivo.
 </p>
 
 <p align="justify">

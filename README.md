@@ -29,6 +29,11 @@ Desenvolvimento projeto CRM Automotivo
     Portanto, o problema que se busca resolver com este projeto é a substituição da diversificação massiva da utilização de planilhas ou sistemas internos pouco flexíveis que prejudicam o acompanhamento das oportunidades. E, portanto, o CRM é uma solução prática e eficaz.
 </p>
 
+> **Links Úteis**:
+> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
+> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
+> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+
 ## Objetivos
 
 <p align="justify">
@@ -56,6 +61,7 @@ Desenvolvimento projeto CRM Automotivo
         </li>
     </ul>
 </p>
+
  
 ## Justificativa
 
@@ -84,6 +90,17 @@ Desenvolvimento projeto CRM Automotivo
 <p align="justify">
     Esta ferramenta permitirá o aprimoramento no atendimento ao cliente. Ela ajudará os mecânicos e gerentes comerciais a atingirem todo o seu potencial com mais produtividade e aproveitando seu tempo da melhor forma.
 </p>
+
+Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
+hierárquicas, etc.
+
+Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+
+> **Links Úteis**:
+> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
+> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
+> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
+> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
 
 # 2. Especificação do projeto
 
